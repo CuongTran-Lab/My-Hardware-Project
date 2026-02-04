@@ -15,7 +15,7 @@ signal integrity, and power stability are critical.
 This repository serves as a technical portfolio showcasing selected projects 
 that demonstrate my ability to work across hardware design that I have undertaken.
 
-###Hardware Design
+### Hardware Design
 
 - Hands-on experience with multiple MCU families: ESP32, PIC, AVR, WCH (CH32 series).
 - Schematic design & PCB layout for 2-layer boards.
